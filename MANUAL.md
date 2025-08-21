@@ -15,7 +15,7 @@ Posteriormente, es necesario configurar la identidad del usuario:
 
 ```powershell
 git config --global user.name "juan David Vera"
-git config --global user.email "correo@ejemplo.com"
+git config --global user.email "juan.vera@upb.edu.co"
 ```
 
 ---
